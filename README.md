@@ -1,3 +1,3 @@
 # ExerciseNyansa
 Instructions:
-Run the main class.
+Run the main (HitCounter) class.
